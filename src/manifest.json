@@ -1,0 +1,21 @@
+{
+    "name": "redirect Google Web Fonts",
+    "version": "1.0.0",
+    "manifest_version": 2,
+    "description": "重定向 Google Web Fonts 到 useso.com",
+    "background": {
+        "page": "main.html",
+        "script": ["main.js"]
+    },
+    "permissions": [
+        "webRequest",
+        "webRequestBlocking",
+        "*://*.googleapis.com/",
+        "*://themes.googleusercontent.com/"
+    ],
+    "icons": {
+        "16": "icon-16.png",
+        "48": "icon-48.png",
+        "128": "icon-128.png"
+    }
+}

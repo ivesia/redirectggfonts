@@ -23,6 +23,6 @@ MIT
 
 ## 感谢
 
-感谢 [https://lug.ustc.edu.cn/wiki/start](LUG@USTC)
+感谢 [https://lug.ustc.edu.cn/wiki/start](LUG USTC).
 
 

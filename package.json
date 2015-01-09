@@ -1,0 +1,26 @@
+{
+  "name": "redirectggfonts",
+  "version": "1.1.0",
+  "description": "重定向 Google Web Fonts 到 lug.ustc.edu.cn",
+  "author": {
+    "name": "AlphaTr",
+    "email": "trefoiles@gmail.com",
+    "url": "https://blog.alphatr.com/"
+  },
+  "keywords": [
+    "chrome extension",
+    "google Web Fonts",
+    "ustc"
+  ],
+  "homepage": "https://github.com/AlphaTr/redirectggfonts",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:AlphaTr/redirectggfonts.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-uglify": "^1.0.1",
+    "gulp-zip": "^2.0.2"
+  }
+}
